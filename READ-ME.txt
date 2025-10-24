@@ -1,0 +1,2 @@
+Hello! This is a message from the Kronos Team, this file is because we added the download page! 
+- Please don't be alarmed, this is obviously only a text file haha.
